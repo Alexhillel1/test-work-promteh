@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-Regular.eot");
+  src: url("./DIN2014-Regular.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-Regular.woff2") format("woff2"),
+    url("./DIN2014-Regular.woff") format("woff"),
+    url("./DIN2014-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-Italic.eot");
+  src: url("./DIN2014-Italic.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-Italic.woff2") format("woff2"),
+    url("./DIN2014-Italic.woff") format("woff"),
+    url("./DIN2014-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-Bold.eot");
+  src: url("./DIN2014-Bold.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-Bold.woff2") format("woff2"),
+    url("./DIN2014-Bold.woff") format("woff"),
+    url("./DIN2014-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-BoldItalic.eot");
+  src: url("./DIN2014-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-BoldItalic.woff2") format("woff2"),
+    url("./DIN2014-BoldItalic.woff") format("woff"),
+    url("./DIN2014-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-Light.eot");
+  src: url("./DIN2014-Light.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-Light.woff2") format("woff2"),
+    url("./DIN2014-Light.woff") format("woff"),
+    url("./DIN2014-Light.ttf") format("truetype");
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN2014";
+  src: url("./DIN2014-LightItalic.eot");
+  src: url("./DIN2014-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("./DIN2014-LightItalic.woff2") format("woff2"),
+    url("./DIN2014-LightItalic.woff") format("woff"),
+    url("./DIN2014-LightItalic.ttf") format("truetype");
+  font-weight: 300; /* Light */
+  font-style: italic;
+}
+
+/* Продолжайте добавлять другие вариации в соответствии с имеющимися файлами шрифтов */
